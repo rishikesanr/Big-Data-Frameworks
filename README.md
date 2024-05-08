@@ -8,5 +8,8 @@ Spark 2 node cluster implementation and processing for large global temperature 
 
 #### Spark ML
 Covers from data cleaning to advanced machine learning using Spark in Databricks
+- Regression, Random Forests
+- Distributed Hyperparameter Tuning (HyperOpt)
+- Model Tracking/Registry/CI/CD (MLFlow)
 
 ## Kafka
